@@ -1,4 +1,4 @@
-# FindIT_App
+# FindIT_Android_App
 
 ## About
 FindIT is an android app backed by Machine Learning.
